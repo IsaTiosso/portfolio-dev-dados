@@ -42,6 +42,4 @@ O objetivo é demonstrar competências técnicas, organização e capacidade de 
 </p>
 
 ---
-
-✨ *“Aprendizado constante e prática diária são a base de todo bom desenvolvedor.”*  
 📍 *Isabela Tiosso — Portfólio de Desenvolvimento e Dados*
