@@ -1,8 +1,10 @@
-<img src="https://copilot.microsoft.com/th/id/BCO.515842c6-d5f5-45f0-af86-cc2449835532.png" alt="mascote de dados" width="350px" align="right">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbdbcd40-dc72-437d-93ab-27b94764f8c8" width="200" alt="Gatinha Analista de Dados">
+</p>
 
 # 📊 Portfólio de Desenvolvimento e Dados
 
-Este repositório reúne projetos desenvolvidos com foco em desenvolvimento e análise de dados.  
+Este repositório reúne projetos desenvolvidos com foco em desenvolvimento de análise de dados.  
 O objetivo é demonstrar competências técnicas, organização e capacidade de aplicar conceitos em projetos práticos e documentados.
 
 ---
